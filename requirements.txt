@@ -1,0 +1,9 @@
+dowhy>=0.9
+econml>=0.15.1
+causalml
+scikit-learn==1.0.2
+pandas
+numpy
+matplotlib
+seaborn
+networkx

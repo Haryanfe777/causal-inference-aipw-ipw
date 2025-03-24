@@ -114,5 +114,5 @@ Different outcome models impact AIPW’s precision:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Haryanfe777/causal-inference-ipw-aipw.git
+git clone https://github.com/YOUR_USERNAME/causal-inference-ipw-aipw.git
 cd causal-inference-ipw-aipw
