@@ -4,6 +4,7 @@ This project conducts a comparative analysis of **Inverse Probability Weighting 
 
 > 🎓 Developed as part of a graduate-level coursework submission at **Université Côte d’Azur**  
 > 🧑‍💻 Author: Habeeb Olawale HAMMED
+> Supervisors--Safaa Al-Ali:safaa.al-ali@inria.fr, Irene Balelli:irene.baleli@inria. fr
 
 ---
 
