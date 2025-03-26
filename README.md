@@ -48,7 +48,7 @@ Synthetic data mimics healthcare variables relevant to treatment decisions and o
 | Comorbidity Index   | Categorical | 0 = Low, 1 = Moderate, 2 = High    |
 | Lifestyle Factors   | Binary      | 0 = Healthy, 1 = Unhealthy         |
 | Treatment           | Binary      | Drug administered (0 = No, 1 = Yes)|
-| Outcome             | Continuous  | Proarrhythmic Risk                 |
+| Outcome             | Continuous  | Treatment Outcome                  |
 
 ---
 
